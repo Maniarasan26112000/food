@@ -1,0 +1,13 @@
+div
+{
+	width: 100%;
+	
+	font-size: 500%;
+	font-weight: bold;
+	
+	font-family: "Anta", sans-serif;
+	text-align: center;
+	background-image: url(ship.jpg);
+	background-size: cover;
+
+}
